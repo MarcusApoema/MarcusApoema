@@ -1,4 +1,5 @@
-## olá, meu nome é Marcus Apoema, designer, ilustrador aprendendo ferramentas novas para um crescimento profissional.
+## olá, meu nome é Marcus Apoema,
+### Designer, ilustrador aprendendo ferramentas novas para um crescimento profissional.
 
 <!--
 **MarcusApoema/MarcusApoema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
