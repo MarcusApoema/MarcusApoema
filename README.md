@@ -1,13 +1,14 @@
-## olá, meu nome é Marcus Apoema,
+<!--## olá, meu nome é Marcus Apoema, color=f0eadc;
 ### Designer, ilustrador aprendendo ferramentas novas para um crescimento profissional.
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a0909&height=150&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0eadc&size=55&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Marcus+Apoema+;futuro+desenvolvedor+Front-end;Bem+Vinde!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<p>Tenho 24 anos e atuo como designer e ilustrador freelance em São Paulo/SP, Brasil.<p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcusApoema&show_icons=true&count_private=true&hide_border=true&title_color=f0eadc&icon_color=6a0909&text_color=f0eadc&bg_color=0d1117" alt="Marcus Apoema github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=f0eadc&text_color=f0eadc&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MthAlvarez&theme=gotham&hide_border=true&area=true)
